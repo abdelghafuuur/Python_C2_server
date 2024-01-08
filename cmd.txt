@@ -1,0 +1,7 @@
+echo "# Python_C2_server" >> README.md
+  git init
+  git add README.md
+  git commit -m "first commit"
+  git branch -M main
+  git remote add origin https://github.com/abdelghafuuur/Python_C2_server.git
+  git push -u origin main
